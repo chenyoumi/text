@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Text
+Bundle-SymbolicName: com.text
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: com.text
+Bundle-RequiredExecutionEnvironment: JavaSE-11
